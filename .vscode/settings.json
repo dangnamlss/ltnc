@@ -3,6 +3,8 @@
     "*html": "html",
     "iostream": "cpp",
     "ostream": "cpp",
-    "cstdio": "cpp"
+    "cstdio": "cpp",
+    "set": "cpp",
+    "map": "cpp"
   }
 }
